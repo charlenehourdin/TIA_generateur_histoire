@@ -1,7 +1,9 @@
 # TIA - Générateur d'histoire pour enfant 
 
 ## Description
-Le but de ce projet est de développer une application de génération de texte sous forme d’histoires pour enfant.
+
+Développement d’une application de génération de texte sous forme d’histoires pour enfant.
+
 Cette solution tend à générer des histoires en anglais et en français.
 
 Le but de cette application est de créer une histoire avec l’aide d’une intelligence artificielle, cette application permet aux utilisateurs de :
