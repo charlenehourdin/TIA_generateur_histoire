@@ -34,12 +34,13 @@ J’ai donc initiée une recherche de sources de données répondant aux critèr
 
 Pour le projet, j’ai besoin de données en français et en anglais. Les données utilisées pour ce projet peuvent être la propriété de créateur de contenu, dans mon cas des auteurs, j’ai décidé d’utiliser un ensemble de données accessible au public contenant différentes histoires. J’ai récupéré l’ensemble des données en effectuant du web scraping via une API pour les da- tasets des contes de Grimms en Français et j’ai récupéré les datasets des contes d’Andersen en français et en anglais ainsi que les contes de Grimms en anglais sur le projet Github d’un utilisateur ayant utilisé ses ensembles de données pour un projet traitant du NLP (Natural language preprocessing)
 
-L’ensemble des données utilisés dans ce projet sont : 
-— Les contes de Grimms :
-  — 115 histoires en français ; 
-  — 201 histoires en anglais.
-— Les contes d’Andersen : 
-  — 53 histoires en français ;
-  — 156 histoires en anglais.
+L’ensemble des données utilisés dans ce projet sont :  
+
+— Les contes de Grimms :  
+  — 115 histoires en français ;   
+  — 201 histoires en anglais.  
+— Les contes d’Andersen :   
+  — 53 histoires en français ;  
+  — 156 histoires en anglais.  
 
 Ces données faisant partie du domaine public, je me prémunis contre les conséquences juridiques potentielles relatives à un droit d’auteur en cours ou à un recours intensif au web scraping dont la légalité est discutable.
